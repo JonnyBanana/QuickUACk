@@ -1,7 +1,7 @@
 # QuickUACk!
 Some of my antiUAC Scripts for Rubbber Ducky
 
-Really fast solutions to disable UAC (User Account Control) 
+A pair of fast solutions to disable UAC (User Account Control) 
 </BR>
 it works on all windows version 32 and 64 bits with uac (Vista or Earlier) 
 </BR>
