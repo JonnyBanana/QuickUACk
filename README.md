@@ -22,7 +22,7 @@ if the target machine is old, I recommend extending the delay time.
 </BR>
 
 
-ver 1.0 uses a .exe application from the C: \ Windows \ System32 (system protected) folder, 
+Ver 1.0 uses a .exe application from the C: \ Windows \ System32 (system protected) folder, 
 </BR>
 to start the uac on-screen control and switch to the uac panel.
 </BR>
