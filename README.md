@@ -5,8 +5,9 @@ Really fast solutions to disable UAC (User Account Control)
 </BR>
 it works on all windows version 32 and 64 bits with uac (Vista or Earlier) 
 </BR>
-and are valid for all languages (Latin, of course) 
+and are valid for all languages (Latin, of course).
 </BR>
+
 The scripts were created with the Italian keyboard, 
 </BR>
 so I do not exclude that in some cases they require minor adjustments
