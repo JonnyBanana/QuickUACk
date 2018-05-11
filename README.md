@@ -14,6 +14,7 @@ so I do not exclude that in some cases they require minor adjustments.
 </BR>
 if the target machine is old, I recommend extending the delay time.
 
+</BR>
 
 ![alt text](https://media1.giphy.com/media/aQrYT4WVN55aU/giphy.gif)
 
