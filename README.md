@@ -26,28 +26,51 @@ CTRL ESC
 </BR>
 DELAY 200
 REM start C:\Windows\System32\AdapterTroubleshooter.exe
+</BR>
 REM work on all windows version 32 and 64 bit
-REM no reboot is required for disabling
+</BR>
+REM no reboot is required for disabling 
+</BR>
 STRING AdapterTroubleshooter
+</BR>
 DELAY 200
+</BR>
 ENTER
+</BR>
 DELAY 200
+</BR>
 TAB
+</BR>
 DELAY 200
+</BR>
 ENTER
+</BR>
 DELAY 200
+</BR>
 DOWNARROW
+</BR>
 DOWNARROW
+</BR>
 DOWNARROW
+</BR>
 DOWNARROW
+</BR>
 DELAY 200
+</BR>
 TAB
+</BR>
 DELAY 200
+</BR>
 ENTER
+</BR>
 DELAY 200
+</BR>
 LEFTARROW
+</BR>
 DELAY 200
+</BR>
 ENTER
+</BR>
 
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 
