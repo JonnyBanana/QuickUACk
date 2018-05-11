@@ -10,7 +10,9 @@ and are valid for all languages (Latin, of course).
 
 The scripts were created with the Italian keyboard, 
 </BR>
-so I do not exclude that in some cases they require minor adjustments
+so I do not exclude that in some cases they require minor adjustments.
+</BR>
+if the target machine is old, I recommend extending the delay time.
 
 
 ![alt text](https://media1.giphy.com/media/aQrYT4WVN55aU/giphy.gif)
@@ -77,4 +79,4 @@ ENTER
 
 
 
-QuickUACk Ver. 1.0
+QuickUACk Ver. 2.0
