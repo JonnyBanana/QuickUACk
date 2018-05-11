@@ -20,6 +20,22 @@ if the target machine is old, I recommend extending the delay time.
 
 </BR>
 
+
+ver 1.0 uses a .exe application from the C: \ Windows \ System32 (system protected) folder, 
+</BR>
+to start the uac on-screen control and switch to the uac panel.
+</BR>
+the C: \ Windows \ SysWOW64 folder for the purpose or other protected system folders that contain exe are also fine.
+</BR>
+Several applications contained in System32 are good, but be careful because there are some exceptions.
+</BR>
+You can consult this list to see the applications that are whitelisted by default and therefore 
+</BR>
+do not require uac checking to be performed.
+</BR>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 QuickUACk Ver. 1.0
 
 DELAY 2000
@@ -132,3 +148,7 @@ LEFTARROW
 DELAY 200
 </BR>
 ENTER
+
+</BR>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
