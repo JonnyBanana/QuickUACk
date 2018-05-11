@@ -21,7 +21,9 @@ so I do not exclude that in some cases they require minor adjustments
 QuickUACk Ver. 1.0
 
 DELAY 2000
+</BR>
 CTRL ESC
+</BR>
 DELAY 200
 REM start C:\Windows\System32\AdapterTroubleshooter.exe
 REM work on all windows version 32 and 64 bit
