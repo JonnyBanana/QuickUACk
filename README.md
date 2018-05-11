@@ -25,6 +25,7 @@ DELAY 2000
 CTRL ESC
 </BR>
 DELAY 200
+</BR>
 REM start C:\Windows\System32\AdapterTroubleshooter.exe
 </BR>
 REM work on all windows version 32 and 64 bit
@@ -75,3 +76,5 @@ ENTER
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 
 
+
+QuickUACk Ver. 1.0
