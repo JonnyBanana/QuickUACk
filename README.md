@@ -37,6 +37,9 @@ and therefore  do not require uac checking to be performed:
 
 https://books.google.it/books?id=1EXt2U84WZ0C&pg=PA278&lpg=PA278&dq=AdapterTroubleshooter.exe&source=bl&ots=sWxJuFdZdU&sig=OhOUJ9gzJxfLb4jlJPiuZyP2F-U&hl=it&sa=X&ved=0ahUKEwi37qe0_fvaAhWMyqYKHWz8CWQQ6AEIcDAN#v=onepage&q=AdapterTroubleshooter.exe&f=false
 
+
+![alt text](https://i.imgur.com/3k9YWzZ.gif)
+
 </BR>
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
