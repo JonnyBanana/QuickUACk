@@ -35,7 +35,7 @@ You can consult this list to see the applications that are whitelisted by defaul
 and therefore  do not require uac checking to be performed:
 </BR>
 
-https://github.com/JonnyBanana/UAC-System32-Whitelisted-App-List
+https://books.google.it/books?id=1EXt2U84WZ0C&pg=PA278&lpg=PA278&dq=AdapterTroubleshooter.exe&source=bl&ots=sWxJuFdZdU&sig=OhOUJ9gzJxfLb4jlJPiuZyP2F-U&hl=it&sa=X&ved=0ahUKEwi37qe0_fvaAhWMyqYKHWz8CWQQ6AEIcDAN#v=onepage&q=AdapterTroubleshooter.exe&f=false
 
 </BR>
 
