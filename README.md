@@ -16,12 +16,6 @@ if the target machine is old, I recommend extending the delay time.
 
 </BR>
 
-![alt text](https://media1.giphy.com/media/aQrYT4WVN55aU/giphy.gif)
-
-
-</BR>
-
-
 Ver 1.0 uses a .exe application from the C: \ Windows \ System32 (system protected) folder, 
 </BR>
 to start the uac on-screen control and switch to the uac panel.
@@ -43,6 +37,7 @@ https://books.google.it/books?id=1EXt2U84WZ0C&pg=PA278&lpg=PA278&dq=AdapterTroub
 </BR>
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 
 QuickUACk Ver. 1.0
 
@@ -160,3 +155,9 @@ ENTER
 </BR>
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+</BR>
+
+![alt text](https://media1.giphy.com/media/aQrYT4WVN55aU/giphy.gif)
+
