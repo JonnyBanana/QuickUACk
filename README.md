@@ -5,6 +5,9 @@ Some of my antiUAC Scripts for Rubbber Ducky.
 
 ![alt text](https://media1.giphy.com/media/aQrYT4WVN55aU/giphy.gif)
 
+</BR>
+
+
 A pair of fast solutions to disable UAC (User Account Control) 
 </BR>
 it works on all windows version 32 and 64 bits with uac (Vista or Earlier) 
