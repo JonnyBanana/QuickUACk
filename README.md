@@ -30,7 +30,7 @@ the C: \ Windows \ SysWOW64 folder for the purpose or other protected system fol
 </BR>
 Several applications contained in System32 are good, but be careful because there are some exceptions.
 </BR>
-You can consult this list to see the applications that are whitelisted by default 
+You can consult this list to see the applications that are whitelisted by default on W7 
 </BR>
 and therefore  do not require uac checking to be performed:
 </BR>
