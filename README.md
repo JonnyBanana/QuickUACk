@@ -1,5 +1,7 @@
 # QuickUACk!
-Some of my antiUAC Scripts for Rubbber Ducky
+Some of my antiUAC Scripts for Rubbber Ducky.
+
+</BR>
 
 ![alt text](https://media1.giphy.com/media/aQrYT4WVN55aU/giphy.gif)
 
