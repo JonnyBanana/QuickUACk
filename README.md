@@ -51,11 +51,11 @@ QuickUACk Ver. 1.0
 
 DELAY 2000
 </BR>
-CTRL ESC
+GUI r
 </BR>
 DELAY 200
 </BR>
-REM start C:\Windows\System32\AdapterTroubleshooter.exe
+REM cmd /c "start C:\Windows\System32\AdapterTroubleshooter.exe"
 </BR>
 REM work on all windows version 32 and 64 bit
 </BR>
