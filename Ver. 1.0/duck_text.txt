@@ -1,8 +1,9 @@
+
 DELAY 2000
-CTRL ESC
+CTRl ESC
 DELAY 200
-REM start C:\Windows\System32\AdapterTroubleshooter.exe
-REM work on all windows version 32 and 64 bit
+REM C:\Windows\System32\AdapterTroubleshooter.exe"
+REM work on windows version 32 and 64 bit (Vista or Earlier)
 REM no reboot is required for disabling
 STRING AdapterTroubleshooter
 DELAY 200
