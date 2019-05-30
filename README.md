@@ -57,7 +57,7 @@ DELAY 200
 </BR>
 REM C:\Windows\System32\AdapterTroubleshooter.exe"
 </BR>
-REM work on all windows version 32 and 64 bit
+REM work on windows version 32 and 64 bit (Vista or Earlier)
 </BR>
 REM no reboot is required for disabling 
 </BR>
